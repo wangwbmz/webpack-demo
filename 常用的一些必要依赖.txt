@@ -13,4 +13,4 @@ webpack-cli包含了一些在终端使用的命令
 配置插件
 webpack-dev-server  作用 : 为使用 webpack 打包提供一个服务器环境
 
-命令：npm i -D webpack-dev-server
+命令：npm i -D webpack-dev-server 
