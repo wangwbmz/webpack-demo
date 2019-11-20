@@ -1,0 +1,12 @@
+npm init
+
+生成 package.json 配置文件，相当于初始化一个项目、
+
+还需要安装一个脚手架：npm i -D webpack webpack-cli
+
+-D是--save -dev的简写，表示安装的包是在项目开发期间使用，不写默认为在上线期间使用
+
+webpack是指安装webpack的核心包
+
+webpack-cli包含了一些在终端使用的命令
+
